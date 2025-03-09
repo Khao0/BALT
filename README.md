@@ -22,3 +22,17 @@ source BALT/bin/activate
 # Install all requirements necessary module and dependencies for this project 
 pip3 install -r requirements.txt
 ```
+## Path to Dataset Directory
+<img src="Figs/path.png" alt="path" height=300>
+
+## Labeling
+1. Select Gender (Dropdown menu: Male/Female)
+2. Choose Bone Maturity Scores for different bones
+3. Review Entered Data before proceeding
+4. Click 'Calculate' TW to compute the Tanner-Whitehouse (TW) bone age score
+5. Analyze by Greulish-Pyle Approach
+6. Summarized the Bone Age
+7. Save by 'Cmd+s'
+8. Go to Next Image by 'd'
+9. Go to Previous Image by 'a'
+<img src="Figs/main.png" alt="main" height=300>
