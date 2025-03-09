@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+test.ipynb
+*DS_Store
+Scores
 
 # Distribution / packaging
 .Python
